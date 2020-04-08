@@ -80,6 +80,12 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 
 __________
 
+## Registering your online workshop
+
+Please be sure to [register](https://amy.carpentries.org/forms/self-organised/) your self-organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
+
+When creating your workshop website, please use the following naming convention: **YYYY-MM-DD-sitename-online**
+
 ## Conferencing platforms
 
 The Carpentries recommends, in order:
