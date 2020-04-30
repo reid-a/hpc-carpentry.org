@@ -12,6 +12,10 @@
   url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   title: "Privacy Policy"
 
+- name: "Our Annual Reports"
+  url: "/annual-reports/"
+  title: "Annual Reports"
+  
 - name: "Software Carpentry website"
   url: "https://software-carpentry.org/"
   title: "Software Carpentry"
