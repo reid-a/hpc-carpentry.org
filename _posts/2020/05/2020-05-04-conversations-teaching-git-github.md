@@ -55,7 +55,7 @@ Here are some challenges faced in teaching git and GitHub that came up in the di
       <li>Consider adding code examples to the git lessons in addition to the text examples already provided This will go a long way in showing use cases that collaborative document platforms do not cater to.For existing text examples,to make it more relevant to everyone, consider using examples like shopping lists, etc.</li>
     </ol>
   <br>  
-- **Challenges around Policy and Ethics**. GitHub is blocked in countries that are sanctioned by the US, which means our lessons on working with git on GitHub are not equitably accessible around the world. Here are some ways to approach policy and ethical issues as they arise:
+- **Challenges around Policy and Ethics**. GitHub is blocked in countries that are sanctioned by the US, which means our lessons on working with git on GitHub are not equitably accessible around the world. Ways, suggested in the discussions, to approach policy and ethical issues as they arise:
     <ol style="list-style-type: lower-alpha;">
       <li>Actively work with The Carpentries community to determine how global technology politics and policy changes should impact The Carpentries' use of different platforms. Developing a broad rubric for how to approach these kinds of decisions will help make recalibrating fast and painless where need be.</li>
       <li>Introduce a stand-alone module in the lessons on the broader topic of privacy and ethics, and best practices around these, for people looking to adopt git for use in different workflows.</li>
