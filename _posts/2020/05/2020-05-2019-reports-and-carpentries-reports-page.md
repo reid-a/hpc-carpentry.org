@@ -10,7 +10,7 @@ tags: ["Communications", "Reports"]
 
 Two pivotal resources for The Carpentries community were published for the first time in 2019. The first is our [2018 Annual Report](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf) which was released in early 2019, and the second is our [2018 Financial Updates Report](https://carpentries.org/blog/2019/05/carpentries-financial-updates/) which was publicised by our Executive Council in mid-2019. Both reports have been an invaluable reference in communicating with new and existing community members, potential funders, member organisations, and others. 
 
-Today, The Carpentries is excited to release our 2019 Annual Report and 2019 Financial Reports. 
+Today, The Carpentries is excited to release our 2019 Annual Report and 2019 Financial Reports, and to share a central resource we have created to aggregate all Carpentries reports for ease of access. 
 
 ### 2019 Annual Report
 
