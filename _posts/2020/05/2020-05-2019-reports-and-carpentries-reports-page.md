@@ -14,7 +14,7 @@ Today, The Carpentries is excited to release our 2019 Annual Report and 2019 Fin
 
 ### 2019 Annual Report
 
-Our 2019 Annual Report showcases the outcome of our community's collaboration-driven ethos, and highlights our growth and progress in different areas over the past year. We penned our vision statement  and articulated our nine core values in 2019, and you will read about this in this Annual Report.  Additionally, you will find summaries of our five-year strategic plan, programmatic achievements from 2019, information about new grants and partnerships, updated metrics about our community and ongoing work, and more. 
+Our 2019 Annual Report showcases the outcome of our community's collaboration-driven ethos, and highlights our growth and progress in different areas over the past year. We penned our vision statement  and articulated our nine core values in 2019, and you will read about this in this Annual Report. Additionally, you will find summaries of our five-year strategic plan, programmatic achievements from 2019, information about new grants and partnerships, updated metrics about our community and ongoing work, and more. 
 
 Hat tip to our Associate Director, Erin Becker, for her tireless work on the design and editorial efforts to bring this report together. A big thank you to our community members - Tania Allard and Bianca Peterson- whose fun designs from [this design contest](https://github.com/carpentries/conversations/issues/22) have been incorporated into this report.
 
@@ -23,7 +23,7 @@ Hat tip to our Associate Director, Erin Becker, for her tireless work on the des
 
 Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. In the 2019 Financial Report, you will learn that our Membership Program, Workshops and Instructor Training are three key sources of income for The Carpentries, among others. You will also find information on our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position for 2020.
 
-A big thank you to Talisha Sutton-Kennedy for her extensive work on this 2019 Financial Report!
+A big thank you to Talisha Sutton-Kennedy and the Executive Council Treasurer, Juan Steyn, for their extensive work on this 2019 Financial Report!
 
 ### Central Archive for Carpentries Reports
 
