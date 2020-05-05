@@ -11,7 +11,7 @@ permalink: "/reports/"
 Our annual reports serve as a high-level summary of The Carpentries work, providing a succinct introduction to our organisation for potential funders, new members, and others joining our community. These reports also serve as a rich resource for our existing community members, showcasing the work and growth of our community and providing a summary of the previous year, and what we plan to achieve in the coming year. Our annual reports also include a short overview of our finances for the year.
 
 - [2019](/files/reports/TheCarpentries2019AnnualReport)
-- [2018](/files/assessment/TheCarpentries2018AnnualReport.pdf)
+- [2018](/files/reports/TheCarpentries2018AnnualReport.pdf)
 
 
 ### Referencing Annual Reports
