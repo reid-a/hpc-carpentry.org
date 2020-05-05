@@ -14,7 +14,7 @@ Today, The Carpentries is excited to release our 2019 Annual Report and 2019 Fin
 
 ### 2019 Annual Report
 
-[Our 2019 Annual Report](/files/assessment/TheCarpentries2018AnnualReport.pdf) showcases the outcome of our community's collaboration-driven ethos, and highlights our growth and progress in different areas over the past year. We penned our vision statement  and articulated our nine core values in 2019, and you will read about this in this Annual Report. Additionally, you will find summaries of our five-year strategic plan, programmatic achievements from 2019, information about new grants and partnerships, updated metrics about our community and ongoing work, and more. 
+[Our 2019 Annual Report](/files/reports/TheCarpentries2019AnnualReport.pdf) showcases the outcome of our community's collaboration-driven ethos, and highlights our growth and progress in different areas over the past year. We penned our vision statement  and articulated our nine core values in 2019, and you will read about this in this Annual Report. Additionally, you will find summaries of our five-year strategic plan, programmatic achievements from 2019, information about new grants and partnerships, updated metrics about our community and ongoing work, and more. 
 
 Hat tip to our Associate Director, Erin Becker, for her tireless work on the design and editorial efforts to bring this report together. A big thank you to our community members - Tania Allard and Bianca Peterson- whose fun designs from [this design contest](https://github.com/carpentries/conversations/issues/22) have been incorporated into this report.
 
