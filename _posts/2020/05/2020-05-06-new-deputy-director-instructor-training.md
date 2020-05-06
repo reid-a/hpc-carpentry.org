@@ -22,6 +22,6 @@ After my PhD, I moved into the public sector. I've worked in government for the 
 
 I’m conscious that now is a challenging time for all of us. In addition to personal struggles, the global pandemic has required us to rethink how we work. And while this is difficult, it's also an opportunity for innovation and growth. I look forward to being part of this new world of online workshop delivery and undertaking assessment efforts to help ensure that virtual workshops provide the same quality people have come to expect from The Carpentries.   
 
-I live in Toronto with my husband, Tristan, and my two cats, Phoebe and Romeo. I like painting, cooking, and going on adventures (which is what I call my long walks around the city). I am excited to get to know you all better, so feel free to reach out [kbarnes@carpentries.org](mailto:klbarnes@carpentries.org).  
+I live in Toronto with my husband, Tristan, and my two cats, Phoebe and Romeo. I like painting, cooking, and going on adventures (which is what I call my long walks around the city). I am excited to get to know you all better, so feel free to reach out [kbarnes@carpentries.org](mailto:kbarnes@carpentries.org).  
 
 
