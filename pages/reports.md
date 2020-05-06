@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Annual Reports"
+title: "Our Reports"
 permalink: "/reports/"
 ---
 
-[narrative for this page to be added here]
+This page holds all reports published by The Carpentries' Core Team and Executive Council since early 2018.
 
 ## Annual Reports
 
@@ -20,10 +20,10 @@ Our annual reports are published under a [Creative Commons Attribution 4.0](http
 
 ## Financial reports
 
-[add narratives here]
+Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. They contain information about key sources of income for The Carpentries,, our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position at the time of release.
 
 - 2019
-- [2018](https://carpentries.org/blog/2019/05/carpentries-financial-updates/)
+- [2018](/files/reports/2018FinancialReport.pdf)
 
 ### Referencing Financial Reports
 
