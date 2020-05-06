@@ -89,6 +89,8 @@ people:
       url: https://twitter.com/serahrono
     - icon: fab fa-github
       url: https://github.com/serahrono
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/serahrono/
     - icon: fa fa-envelope
       url: mailto:serah@carpentries.org
 
@@ -120,6 +122,10 @@ people:
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/kbarne2
+    - icon: fab fa-github
+      url: https://github.com/klbarnes20
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/klbarnes20/
     - icon: fa fa-envelope
       url: mailto:kbarnes@carpentries.org
 
