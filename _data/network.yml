@@ -14,7 +14,7 @@
 
 - name: "Our Annual Reports"
   url: "/reports/"
-  title: "Annual Reports"
+  title: "Our Reports"
   
 - name: "Software Carpentry website"
   url: "https://software-carpentry.org/"
