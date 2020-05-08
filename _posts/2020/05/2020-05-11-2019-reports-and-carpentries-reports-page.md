@@ -3,7 +3,7 @@ layout: page
 authors: ["Serah Rono"]
 teaser: "We have released our 2019 Annual Report and Financial Report, and set up a standalone page for all Carpentries reports"
 title: "2019 Reports and our Annual Reports Page"
-date: 2020-05-07
+date: 2020-05-11
 time: "09:00:00"
 tags: ["Communications", "Reports"]
 ---
@@ -21,7 +21,7 @@ Hat tip to our Associate Director, Erin Becker, for her tireless work on the des
 
 ### 2019 Financial Report
 
-Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. In the 2019 Financial Report, you will learn that our Membership Program, Workshops and Instructor Training are three key sources of income for The Carpentries, among others. You will also find information on our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position for 2020.
+Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. [In the 2019 Financial Report](/files/reports/2019FinancialReport.pdf), you will learn that our Membership Program, Workshops and Instructor Training are three key sources of income for The Carpentries, among others. You will also find information on our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position for 2020.
 
 A big thank you to Talisha Sutton-Kennedy and the Executive Council Treasurer, Juan Steyn, for their extensive work on this 2019 Financial Report!
 
