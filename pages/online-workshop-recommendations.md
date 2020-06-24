@@ -18,13 +18,13 @@ header-includes: |
   </p>
 </div>
 
-Last updated: 2020-05-18
+Last updated: 2020-05-18 [UPDATE]
 
 An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html).
 
 **Note: This official set of recommendations will be updated as we receive feedback from the community.**
 
-## Outline
+## Outline [WILL NEED MANUAL UPDATE]
 
 - [Overall comments on pilot recommendations](#overall-comments-on-pilot-recommendations)
 - [Planning Checklist](#planning-checklist)
@@ -60,11 +60,21 @@ Finally, it is worth noting that most video conferencing platforms have the capa
 
 _________
 
-## Planning Checklist
+# Before Your Workshop
+## Planning
+### Planning Checklist
 
 Use this list to be sure you've given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
 
-### Technology choices
+### Thinking about time 
+Time format 
+Timezones
+Breaks 
+Planning extra time for exercises
+Plan to teach less content
+Fatigue is real
+
+### What Technology Will You Use?
 
 <div class="checklist">
 
@@ -101,10 +111,19 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 * Timing for check-ins and breaks
 * Timing for social/collaborative opportunities
 * Contingency planning
-
 </div>
+    
+### Preparatory Meetings with Instructional Team 
 
-### After the workshop (consider any or all!)
+
+### Making Your Workshop Accessible
+Bandwidth
+
+### Emergency Planning
+Know Your Rally Point
+Just like in a fire drill, everyone should know where to go in the event of an emergency. In this case, emergency means technological failure. 
+
+### After the workshop (consider any or all!)(CONSIDER MOVING TO THE AFTER THE WORKSHOP SECTION)
 
 <div class="checklist">
 
@@ -116,14 +135,31 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 
 __________
 
-## Registering your online workshop
+## How to register your online workshop
 
 Please be sure to [register](https://amy.carpentries.org/forms/self-organised/) your self-organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
 
 When creating your workshop website, please use the following naming convention: **YYYY-MM-DD-sitename-online**
 
+## Pre-Workshop Emails to Learners
 
-## Conferencing platforms
+# During Your Workshop
+## Setting Up
+### Attendance 
+### Introductions
+Have learners change their name on zoom to include their preferred name and pronouns. 
+### Ice Breaker
+To help establish communication norms
+### Communicate Information Learners Need to Know
+#### Schedule
+#### Code of Conduct
+#### Emergency Plan
+#### How to use the technology (e.g., conferencing platform, chat, collaborative notetaking document)
+#### Communication Norms (e.g., How to ask questions?)
+
+## Show learners how best to set up their screens
+
+## Using the Conferencing platforms (e.g., Zoom)
 
 The Carpentries recommends, in order:
 
@@ -132,13 +168,13 @@ The Carpentries recommends, in order:
 1. Google Hangouts or Skype, depending on local access, permissions, and expertise.
 
 
-### Minimum features (all are required):
+### Your conferencing platform needs to have:
 
 * Screen sharing for instructors
 * Audio for speaker
 * Chat system for attendees
 
-### Recommended features (any of these can improve a workshop experience):
+### These features can improve a workshop experience and are recommended:
 
 * Audio support for attendees
 * Video support for attendees (highly recommended for some if not all)
@@ -146,7 +182,7 @@ The Carpentries recommends, in order:
 * Breakout rooms
 * Session recording (see notes re privacy concerns)
 
-### Screen 'real estate'
+### Dealing with the Screen 'real estate' Challenge
 
 Participatory live coding can work online, but the challenge of following and typing for a learner with one small screen is extremely problematic. The task of juggling windows adds to cognitive load. If a learner hides the screen share window to enlarge a work window, they may begin to fall behind. 
 
@@ -158,7 +194,7 @@ Possible options for workarounds include:
 * Add more frequent pauses for learners to work. 
 * Recording the session for later reference can also be helpful -- this also addresses problems faced by learners with distracting home environments. However, note privacy concerns with recording. Until The Carpentries completes a full evaluation of policies related to creation and storage of recordings, **please do not make recordings that include learners.**
 
-### Breakout rooms
+### Using Breakout Rooms
 Breakout rooms are features of a platform where participants can be grouped together and put into private 'rooms'. For example, a class of 20 learners could be split into 10 breakout rooms with 2 students each.  Participants cannot enter or view/listen to other rooms that they are not within.
 
 Creating breakout rooms is fairly straightforward, but nonetheless it's good to practice with this feature in advance of the workshop. Only a meeting "host" can create breakout rooms in Zoom. If you don't have time to practice or feel overwhelmed by the added technical management, it's ok to wait!
@@ -173,17 +209,17 @@ This may be a bit trickier. Participants in breakout rooms are removed from the 
 
 For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
 
-## Chat and Forum Platforms
+## Communicating During Your Workshop: Using Chat and Forum Platforms
 Live and synchronous chat can be used in many ways. When choosing a platform separate from that used for video conferencing, pick one that’s normally used by people in your area. Consider when and how it will be used, and how it will work for participants with limited screen space.
 
 
-### Learner communication during instruction
+### How can learners communicate with each other and instructors?
 
 The chat program within your conferencing platform is a good first choice for simple learner communications. This saves on screen space and minimizes cognitive load. It is also easiest to monitor. However, it can quickly become cluttered. Social chatter and extended conversations should be directed to an alternate platform. In these cases, The Carpentries recommends:
 1. Any platform in use by your community
 2. Slack   
 
-#### Hand raising and help requests
+#### How can learners raise their hands and request help?
 
 In an in-person workshop, you might classify learner questions in two ways: 
 
@@ -200,12 +236,12 @@ Attending to hands in the chat while instructing can be a challenge. Helpers may
 The best means of requesting technical assistance will depend on your choice for delivering that help. For example, if you plan to rely on breakout rooms, a simple request in the chat may suffice; if you plan to resolve problems through chat, this will demand a separate platform, e.g. Slack, and help requests may also begin there. Wherever you direct these requests, be sure to have a plan in place for continuous monitoring. 
 
 
-### Instructional team communication 
+### How can instructors and helpers communicate with each other? 
 
 The instructional team should have a chat channel separate from the main classroom chat to discuss logistical needs or private concerns.  This should be something with manageable notifications that is private to just the team. A platform like Slack (using a private channel or group direct messaging) or a WhatsApp group can be effective with this. 
 
 
-## Progress Indicators
+## How can learners indicate their status when completing tasks?
 
 In addition to requesting help, learners often use sticky notes at in-person workshops to indicate their status on completing a task. This mechanism can be mimicked in a few ways.  
 
@@ -217,7 +253,7 @@ These are just some options for the instructional team to use, and these styles 
 
 Regardless of your choice, be sure to practice these options and discuss choices before the workshop. Try to keep things simple and consistent to build expertise and comfort within the instructional team.
 
-## Formative assessment
+## How to do formative assessment online
 Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what's going on out there is to ask. 
 
 One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
@@ -230,7 +266,7 @@ These prompts can be answered via the conferencing chat. Be sure to allow ample 
 
 As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, or wordles. 
 
-## Gathering feedback
+## Gathering learners' feedback
 
 At in-person workshops, we use sticky notes for getting feedback after each module. The Carpentries offers a [Google Form](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit) template for this purpose. If choosing an alternative, the key elements of this are:
 
@@ -239,7 +275,7 @@ At in-person workshops, we use sticky notes for getting feedback after each modu
 * Prompt and collaborative review by the instructional team
 * Addressing concerns at the start of the next session
 
-## Instructional Roles
+## Instructional Roles (CONSIDER MOVING TO THE PLANNING OR SET UP SECTION)
 
 Having clear, visible, and documented roles for the instructors and helpers within the room will help the learners know where to go for help and feel empowered to do so. A few suggested roles are:
 
@@ -257,7 +293,7 @@ People in these roles should:
 * have hosting privileges (as the platform allows). At a minimum, the helpers and instructors need permissions to mute people.  If the platform only supports one person having these permissions, we recommend that a helper does so they can monitor things for the instructor.  
 * have their meeting roles identified in their names, like: “Human Name-Content (role)”. These role labels might be Instructor, Helper-Facilitator, or just Helper if it is not being distinguished.  Be sure to review how to change your name in your conferencing software. In Zoom, right-clicking on your name in the small video-window allows for temporary renaming yourself.
 
-## Collaborative Notes
+## Getting Everyone on the Same Page: Using Collaborative Notetaking Platforms (e.g., Etherpad)
 
 Any collaborative note-taking platform your group has been using should transition nicely for online use (i.e. Etherpad, Google Documents, etc). Zoom Whiteboards can be used for limited collaboration, e.g. during breakouts, and can be saved. If a document platform offers chat or other communication features, be clear to the learners how these should or should not be used. 
 
@@ -266,7 +302,8 @@ The top of the document is a great place for important notes, including space fo
 The challenge presented by a single small screen is particularly important to remember when adding a collaborative document to your toolkit. Be sure to allow time for switching between windows if Zoom, a programming environment, and a collaborative document are all simultaneously in use.
 As with all communications platforms, be sure a helper is assigned to monitor and support note-taking at all times.
 
-## Feedback on your experience
+# After Your Workshop
+## Share feedback on your experience with us
 The Carpentries community needs to learn and grow from your experience with these pilot-phase workshops! There will be many ways to contribute your feedback towards the iterative improvement of these recommendations. 
 * Attend a [Community Discussion](https://pad.carpentries.org/community-discussions) meeting! This is a great place to come to discuss your plans for online training, as well as to share your experiences with others who are beginning to plan. The Carpentries core team will be checking the notes from these meetings, so feedback shared there will be incorporated into our assessment stream. This mode of feedback is available now!
 * Look for (new!) Instructor surveys! These will be coming soon. We know it can be a chore to fill out surveys, but the sortable and quantifiable nature of survey data make them particularly useful in understanding and reporting on the outcomes of these workshops. Please be sure at least one member of your instructional team completes this survey -- we will reach out with instructions as soon as they become available.
@@ -281,5 +318,7 @@ During the pilot phase, we ask that you reserve Carpentries branding for worksho
 If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you've tried and how it worked out! 
 
 
-## These recommendations will change!
+## Keep checking back here. These recommendations will change!
 As time passes, don't forget to check back here each time you teach! We won't be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
+
+
