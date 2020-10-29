@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.hpc-carpentry.org/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://www.hpc-carpentry.org/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HPC Carpentry</title>
+		<description>HPC Carpentry is a set of teaching materials designed to help new users take advantage of high-performance computing systems. No prior computational experience is required - these lessons are ideal for either an in-person workshop or independent study.</description>
+		<link>https://www.hpc-carpentry.org/</link>
+		<atom:link href="https://www.hpc-carpentry.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>HPC Carpentry Task Force</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/09/task-force/</link>
+				<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;In the fall of 2020, following successful engagement at the 
+Carpentries@Home conference, a number of HPC Carpentry contributors got 
+together and formed an “HPC Carpentry Task Force”, with an expected
+lifetime of about three months, with the goal of identifying and solving
+the issues which stand between the current state of the lesson,
+and incorporating our material into the mainstream Carpentries
+infrastructure, though the &lt;a href=&quot;https://github.com/carpentries-incubator/proposals&quot;&gt;incubator&lt;/a&gt; mechanism&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://codimd.carpentries.org/ct7yfc_LSseoC8mEmbVEiQ?both&quot;&gt;initial meeting&lt;/a&gt; was held on Sept. 16, 2020.&lt;/p&gt;
+
+&lt;p&gt;Moving forward, the plan is to coordinate several co-working
+sessions where volunteers can identify and clear remaining
+issues with the various repositories, and also to have 
+higher-level coordination meetings, approximately monthly,
+where issue priorities can be discussed, and tasks requiring
+higher-level coordination can be undertaken.&lt;/p&gt;
+
+&lt;p&gt;Discussion and coordination takes place on the 
+HPC Carpentry &lt;a href=&quot;https://swcarpentry.slack.com&quot;&gt;Slack channel&lt;/a&gt;, The Carpentries’ HPC
+&lt;a href=&quot;https://carpentries.topicbox.com/groups/discuss-hpc&quot;&gt;mailing list&lt;/a&gt;, and through issues on the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination&quot;&gt;coordination&lt;/a&gt;
+repository on Github.&lt;/p&gt;
+
+&lt;p&gt;All are welcome!&lt;/p&gt;
+
+</description>
+				<author>Andrew Reid</author>
+				
+				<category> Community </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/09/task-force/</guid>
+			</item>
+		
+			<item>
+				<title>HPC Carpentry at CarpentryCon @ Home 2020</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home/</link>
+				<pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Some of the HPC Carpentry team are very keen to bring HPC Carpentry into the carpentries as an
+incubator project
+(&lt;a href=&quot;https://github.com/carpentries-incubator/proposals&quot;&gt;1&lt;/a&gt;) and eventually become a member of the Carpentries (or the Carpentry Lab (&lt;a href=&quot;https://github.com/carpentrieslab/proposals&quot;&gt;2&lt;/a&gt;) at least). To start
+this, they’ve proposed a breakout
+session for carpentrycon at home (&lt;a href=&quot;https://github.com/carpentrycon/carpentryconhome-proposals/issues/33&quot;&gt;3&lt;/a&gt;) which will take place on July 20,
+2020.&lt;/p&gt;
+
+&lt;p&gt;Besides sampling the community for expectations and hopes, we would love to propose a way forward
+to bring the community
+together and focus on hpc-intro (&lt;a href=&quot;https://github.com/hpc-carpentry/hpc-intro&quot;&gt;4&lt;/a&gt;). Key points of this are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;propose a github manager who will coordinate reviews, reviewers and issues&lt;/li&gt;
+  &lt;li&gt;propose building a set of task forces to tackle particular issues, and asking for volunteers&lt;/li&gt;
+  &lt;li&gt;suggest to hold co-working hours (biweekly for 60-90 minutes via zoom) to establish continuous
+work on the material&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this message, we call for volunteers to help shape the session (we need at least 2 more people
+since we plan to have 4
+breakout rooms during the session). Please step forward and reply to the open issue in our repo
+connected to the proposal (&lt;a href=&quot;https://github.com/hpc-carpentry/hpc-intro/issues/123&quot;&gt;5&lt;/a&gt;) or to the proposal itself (&lt;a href=&quot;https://github.com/carpentrycon/carpentryconhome-proposals/issues/33&quot;&gt;6&lt;/a&gt;) or email us at
+&lt;a href=&quot;mailto:maintainers-hpc@lists.carpentries.org&quot;&gt;maintainers-hpc@lists.carpentries.org&lt;/a&gt; (can you feel how keen we are to get you involved!).&lt;/p&gt;
+
+</description>
+				<author>Alan O'Cais, Peter Steinbach</author>
+				
+				<category> Community </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home/</guid>
+			</item>
+		
+	</channel>
+</rss>
